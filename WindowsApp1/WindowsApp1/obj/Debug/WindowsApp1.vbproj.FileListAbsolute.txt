@@ -1,0 +1,24 @@
+C:\Users\Imon\Documents\VB Programs\Windows Form Apps\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Imon\Documents\VB Programs\Windows Form Apps\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Imon\Documents\VB Programs\Windows Form Apps\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Imon\Documents\VB Programs\Windows Form Apps\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Imon\Documents\VB Programs\Windows Form Apps\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\Imon\Documents\VB Programs\Windows Form Apps\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Imon\Documents\VB Programs\Windows Form Apps\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Imon\Documents\VB Programs\Windows Form Apps\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Documents\VB Programs\Windows Form Apps\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Imon\Documents\VB Programs\Windows Form Apps\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Imon\Documents\VB Programs\Windows Form Apps\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Imon\Documents\VB Programs\Windows Form Apps\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Imon\Documents\VB Programs\Windows Form Apps\Equation Finder\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Imon\Documents\VB Programs\Windows Form Apps\Equation Finder\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Imon\Documents\VB Programs\Windows Form Apps\Equation Finder\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Imon\Documents\VB Programs\Windows Form Apps\Equation Finder\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Imon\Documents\VB Programs\Windows Form Apps\Equation Finder\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\Imon\Documents\VB Programs\Windows Form Apps\Equation Finder\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Imon\Documents\VB Programs\Windows Form Apps\Equation Finder\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Imon\Documents\VB Programs\Windows Form Apps\Equation Finder\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Imon\Documents\VB Programs\Windows Form Apps\Equation Finder\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Imon\Documents\VB Programs\Windows Form Apps\Equation Finder\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Imon\Documents\VB Programs\Windows Form Apps\Equation Finder\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Imon\Documents\VB Programs\Windows Form Apps\Equation Finder\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
